@@ -1,0 +1,9 @@
+node_modules
+*_secret.env
+*.log
+dist
+ecosystem.config.js
+path.config.js
+static
+lib/shared
+.directory
